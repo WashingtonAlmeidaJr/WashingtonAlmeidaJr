@@ -8,4 +8,4 @@
 - 📫 How to reach me: https://www.linkedin.com/in/washington-almeida/
 - ⚡ Hobbies: love to kitesurfing and play guitar
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Washington's GitHub stats](https://github-readme-stats.vercel.app/api?username=WashingtonAlmeidaJr&show_icons=true&theme=transparent)
