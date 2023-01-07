@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on crown-store project
+- 🔭 I’m currently working on wings project
 - 🌱 I’m currently learning Redux
 - 👯 I’m looking to collaborate on front-end and react projects
 - 💬 Ask me about React
